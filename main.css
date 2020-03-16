@@ -1,0 +1,28 @@
+* {
+    font-size: 120%;
+    border-radius: 10px;
+}
+
+body {
+    background-color: rgb(245, 223, 193);
+}
+
+h1 {
+    background-color: rgb(236, 161, 62);
+}
+
+h3 {
+    background-color: rgb(185, 245, 205);
+}
+
+ul {
+    background-color: rgb(192, 179, 250);
+}
+
+#paragraf1 {
+    background-color: rgb(223, 161, 207);
+}
+
+#paragraf2 {
+    background-color: rgb(247, 188, 174);
+}
